@@ -20,8 +20,8 @@ body {
 .app {
   max-width: 720px;
   margin: 48px auto;
-  padding: 24px;
-  background: color-mix(in oklab, var(--card) 90%, #000 10%);
+  padding: 24px; 
+  background: color-mix(in oklab, var(--card) 90%, #000 11%);
   border: 1px solid #22305f;
   border-radius: 16px;
   box-shadow: 0 10px 35px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.03);
